@@ -5,7 +5,7 @@
 
 <img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
-# <code>❯ KIDNEY DISEASE CLASSIFICATION</code>
+# <code>KIDNEY DISEASE CLASSIFICATION</code>
 
 <em></em>
 
