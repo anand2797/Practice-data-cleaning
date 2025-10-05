@@ -290,19 +290,7 @@ Run the project:
 ### Testing
 
 There is no formal test framework used in this project. You can manually test the models by running the prediction code above and verifying outputs on sample data.
-
 ---
-
-
-## Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
-## Roadmap
 
 ## Roadmap
 
@@ -313,22 +301,13 @@ There is no formal test framework used in this project. You can manually test th
 - [X] **`Prediction Script / Notebook`**: Implement a script or notebook to load models and make predictions on new data.  
 - [X] **`Evaluation & Reporting`**: Generate model evaluation metrics and visualizations.  
 - [X] **`README Enhancement`**: Add detailed instructions, project index, and dataset summary.  
-
-
-## Contributing
-
-- **💬 [Join the Discussions](https://LOCAL///discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://LOCAL///issues)**: Submit bugs found or log feature requests for the `` project.
-- **💡 [Submit Pull Requests](https://LOCAL///blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+---
 
 ## Contributing
-
 This project is based on Kaggle datasets. Direct contributions are not required, but you can still contribute in the following ways:
-
 - **💬 Share Insights**: If you try the project or improve preprocessing/modeling, feel free to share your findings in forums or comments on Kaggle.  
 - **🐛 Report Issues**: If you find errors in the notebooks or models, you can log issues in your own fork or via Kaggle discussion threads.  
 - **💡 Improve Locally**: You can create your own version of the notebooks or models and experiment with different approaches.  
-
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -354,9 +333,6 @@ This project is based on Kaggle datasets. Direct contributions are not required,
 7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
-
-
-
 ---
 
 <details closed>
@@ -370,6 +346,7 @@ This project is based on Kaggle datasets. Direct contributions are not required,
 </p>
 </details>
 
+---
 
 ## License
 
