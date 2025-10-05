@@ -1,0 +1,15 @@
+Folder PATH listing for volume Windows
+Volume serial number is 3877-199F
+C:.
+¦   kidney.xlsx
+¦   kidney_disease.csv
+¦   kidney_disease_cleaned_data.csv
+¦   kidney_disease_data_cleaning .ipynb
+¦   kidney_disease_logistic_mm.pkl
+¦   kidney_disease_logistic_std.pkl
+¦   kidney_disease_practice_data_cleaning.ipynb
+¦   kidney_disease_svm_std.pkl
+¦   project_tree.txt
+¦   README.md
+¦   
++---.ipynb_checkpoints
